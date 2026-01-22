@@ -1,4 +1,4 @@
-# 📊 Excel Interactive Sales Dashboard
+# Pizza_Sales_Dashboard
 
 ## Overview
 This project is an interactive Excel dashboard designed to analyze pizza sales performance.
@@ -17,6 +17,6 @@ This project is an interactive Excel dashboard designed to analyze pizza sales p
 - Slicers
 
 ## Preview
-![Dashboard Screenshot](project)
+![Dashboard Screenshot](dashboard.jpg)
 # excel---Sales-dashboard
 Interactive Excel Sales Dashboard using Pivot Table and slicers
